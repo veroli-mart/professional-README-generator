@@ -14,14 +14,15 @@ The tools used to create this was:
 
 To install this project, you must run
 
-\`\`\`
+```shell
 node nmp i
-\`\`\`
+```
 
 To use it, you must run
-\`\`\`
+
+```shell
 npm index
-\`\`\`
+```
 
 ## Demonstration
 

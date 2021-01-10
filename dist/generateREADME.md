@@ -1,7 +1,7 @@
-# README Generator
-  ![GitHub License](https://img.shields.io/badge/License-GNU-blue.svg?style=plastic&logo=appveyor)
+# askjhdw
+  ![GitHub License](https://img.shields.io/badge/License-MIT-blue.svg?style=plastic&logo=appveyor)
 ## Description
-Generates README's
+skdjh
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -12,19 +12,19 @@ Generates README's
   ## Installation
   To install necessary dependencies, run the following command:
   ```
-  node npm i
+  asld
   ```
   ## Usage
-  npm index
+  lksl
   ## License
-  This project is licensed under the GNU license.
+  This project is licensed under the MIT license.
   ## Contributing
-  Email me, let's collab!
+  qwoieoqiwue
   ## Tests
   To run tests, run the following command:
   ```
-  npm tests
+  qwepowqupe
   ```
   ## Questions
-  If you have any questions about the repo, open an issue or contact me directly at hello@gmail.com. You can find more of my work at [hello-friends](https://github.com/hello-friends/).
+  If you have any questions about the repo, open an issue or contact me directly at qwemzczm,xc. You can find more of my work at [sdlwdqwjdw](https://github.com/sdlwdqwjdw/).
   
