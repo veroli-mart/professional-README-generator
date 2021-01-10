@@ -1,4 +1,5 @@
 // TODO: Include packages needed for this application
+const fs = require("fs");
 const inquirer = require("inquirer");
 const generateMarkdown = require("./utils/generateMarkdown.js");
 
@@ -52,6 +53,13 @@ inquirer
     },
   ])
   .then(function (promptAnswers) {
-    console.log(generateMarkdown(promptAnswers));
-    console.log(promptAnswers);
+    fs.writeFile(
+      "generateREADME.md",
+      generateMarkdown(promptAnswers),
+      function (err) {
+        if (err) return console.log(err);
+
+        console.log("Check out your created README!");
+      }
+    );
   });

@@ -1,8 +1,8 @@
 function generateMarkdown(data) {
   return `# ${data.title}
-  
-  ## Description
-  ${data.description}
+  ![GitHub License](https://img.shields.io/badge/License-${data.license}-blue.svg?style=plastic&logo=appveyor)
+## Description
+${data.description}
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
