@@ -25,6 +25,8 @@ npm index
 
 ## Demonstration
 
+<img src="READMEGen.gif">
+
 ## Contribution
 
 Made with &hearts; by Veronica Martinez
